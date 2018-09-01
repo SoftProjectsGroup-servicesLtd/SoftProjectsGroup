@@ -10,17 +10,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
 
 Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
-## Education
+## Engineering Services
 
 * ABC degree from XYZ University.
 * ABC degree from XYZ University.
 * ABC degree from XYZ University.
 
-## Roles
+## Corporate Services
 
 Founder, ABC Organisation
 
-## Skills
+## Software Services
+
 
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
