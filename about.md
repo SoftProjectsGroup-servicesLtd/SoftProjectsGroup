@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
 Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Business Formation 
-With our partners in Greecce, Bulgaria, Cyprus, Albania, FYROM, Serbia, Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
+With our partners in Greece, Bulgaria, Cyprus, Albania, FYROM, Serbia, Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
  
 
  
