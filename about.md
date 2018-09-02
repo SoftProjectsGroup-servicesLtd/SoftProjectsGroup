@@ -10,17 +10,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
 
 Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
-## Engineering Services
+## Business Formation 
+With our partners in Greecce, Bulgaria, Cyprus, Albania, FYROM, Serbia, Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
+ 
 
+ 
+
+ 
+Start-up Consulting
+ 
+Project Management Services
 * ABC degree from XYZ University.
 * ABC degree from XYZ University.
 * ABC degree from XYZ University.
 
-## Corporate Services
+## Investment Management
+The group was created to manage customized portfolios for private clients and corporations around the world. We continue to provide cryptocurrencies-focused, personalized money management though our software solutions (crypto trading bots, intelligent agents, forecasting algorithms).
 
-Founder, ABC Organisation
-
-## Software Services
+## IT Solutions
+Mainly specializing in the development of software solutions based on open source for small-medium sized companies, which provides immediate high level technical support.
 
 
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
@@ -31,8 +39,10 @@ Founder, ABC Organisation
 * **Skill 6** - `Skill` / `Skill` 
     
     
-## Achievements
+## Digital Marketing
+Our specialty area is the entertainment media, web marketing and development.  We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
 
+Web Application Development, Website Optimization, CRM, and Search Engine Optimization
 
 * [**This is my first achievement**](#) 
    
