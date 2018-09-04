@@ -31,18 +31,16 @@ The group was created to manage customized portfolios for private clients and co
 Mainly specializing in the development of software solutions based on open source for small-medium sized companies, which provides immediate high level technical support.
 
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Application Development** - `Web` / `Mobile` / `Desktop`
+* **Digital Marketing** - `Search Engine Optimization` / `Analytics` / `Website Optimization` / `E-commerce`
+* **ERP/CRM** - `Customizations` / `Integrations` / `Expansions`
+* **Machine Learning** - `Skill` / `Skill` / `Skill` 
+* **Crytpo** - `Skill`
+* **IoT** - `Skill` / `Skill` 
     
     
-## Digital Marketing
-Our specialty area is the entertainment media, web marketing and development.  We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
 
-Web Application Development, Website Optimization, CRM, and Search Engine Optimization
+ 
 
 * [**This is my first achievement**](#) 
    
