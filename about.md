@@ -39,7 +39,7 @@ Mainly specializing in the development of software solutions based on open sourc
 * **IoT** - `Skill` / `Skill` 
     
     
-
+Our specialty area is the entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
  
 
 * [**This is my first achievement**](#) 
