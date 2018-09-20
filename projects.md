@@ -4,17 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
- In a team of 2, raised 8.000 € in funding from The Hub incubator at Thessaloniki(Greece), to develop a prototype crypto trading bot, aimed at portfolio optimization of our company.
- 
-In a team of 3, we provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. Also our team provide Software Consulting Services, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
+### [Financial Services](https://github.com/tux4kids/tuxmania) 
+We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. 
         
 ***
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Software Consulting](https://github.com/AkshayAgarwal007/Moodly)
+Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
 
 ***
 
@@ -26,7 +22,7 @@ Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulu
    
 ### This Could Be Yet Another Project Name
 
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+In a team of 2, raised 8.000 € in funding from The Hub incubator at Thessaloniki(Greece), to develop a prototype crypto trading bot, aimed at portfolio optimization of our company.
 
 
 ## Contact me
