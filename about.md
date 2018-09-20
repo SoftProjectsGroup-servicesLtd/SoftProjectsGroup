@@ -38,19 +38,19 @@ Mainly specializing in the development of Artificial Intelligence solutions for 
 Our specialty area is the entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
  
 
-* [**This is my first achievement**](#) 
+* [**Software Alliances**](#) 
    
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**Technology Alliances**](#) 
 
     Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**Affiliations**](#) 
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
