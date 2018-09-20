@@ -11,14 +11,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
 Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Business Formation 
-With our partners in Greece, Bulgaria, Cyprus, Albania, FYROM, Serbia, Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
- 
-
- 
-
+With our partners in Greece, Cyprus, Bulgaria, Serbia, Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
  
 Start-up Consulting
- 
+Corporate Law
 Project Management Services
 * ABC degree from XYZ University.
 * ABC degree from XYZ University.
@@ -27,8 +23,8 @@ Project Management Services
 ## Investment Management
 The group was created to manage customized portfolios for private clients and corporations around the world. We continue to provide cryptocurrencies-focused, personalized money management though our software solutions (crypto trading bots, intelligent agents, forecasting algorithms).
 
-## IT Solutions
-Mainly specializing in the development of software solutions based on open source for small-medium sized companies, which provides immediate high level technical support.
+## Software Solutions
+Mainly specializing in the development of Artificial Intelligence solutions for the financial technology sector to save time, reduce costs, and add value. Our  flexible and integrated solutions based on open source software technology to deal with problems of small-medium sized companies, which provides immediate high level technical support.
 
 
 * **Application Development** - `Web` / `Mobile` / `Desktop`
