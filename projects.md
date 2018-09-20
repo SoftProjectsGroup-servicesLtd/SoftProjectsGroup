@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### [Project 1](https://github.com/tux4kids/tuxmania) 
- In a team of 2, raised $8,000 in funding from The Hub incubator at Thessaloniki(Greece), to develop a prototype crypto trading bot, aimed at portfolio optimization of our company.
+ In a team of 2, raised 8.000 € in funding from The Hub incubator at Thessaloniki(Greece), to develop a prototype crypto trading bot, aimed at portfolio optimization of our company.
  
 In a team of 3, we provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. Also our team provide Software Consulting Services, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
         
