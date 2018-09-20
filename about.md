@@ -13,12 +13,9 @@ Sed faucibus felis purus, sed convallis leo dictum vehicula.
 ## Business Formation 
 With our partners in Greece, Cyprus, Bulgaria, Serbia, Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
  
-Start-up Consulting
-Corporate Law
-Project Management Services
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Corporate Law.
+* Start-up Consulting.
+* Project Management Services.
 
 ## Investment Management
 The group was created to manage customized portfolios for private clients and corporations around the world. We continue to provide cryptocurrencies-focused, personalized money management though our software solutions (crypto trading bots, intelligent agents, forecasting algorithms).
