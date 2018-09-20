@@ -43,7 +43,7 @@ Our specialty area is the entertainment media, web marketing and development. We
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
    
    ![Jekyll-Mono Home Page](https://cdn.cryptohopper.com/images/gdax_logo.png) 
-   ![Jekyll-Mono Home Page](https://image.flaticon.com/icons/svg/25/25231.svg) ![Jekyll-Mono Home Page](https://www.forexbrokerz.com/files/1514992839Gatehub%20logo.png)
+   ![Jekyll-Mono Home Page](https://www.bvoh.com/wp-content/uploads/2016/04/github-logo.jpg) ![Jekyll-Mono Home Page](https://www.forexbrokerz.com/files/1514992839Gatehub%20logo.png)
    
 
 ***
