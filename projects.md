@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Financial Services](https://github.com/tux4kids/tuxmania) 
+### Financial Services
 We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. 
         
 ***
 
-### [Software Consulting](https://github.com/AkshayAgarwal007/Moodly)
+### Software Consulting
 Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
 
 ***
