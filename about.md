@@ -57,7 +57,7 @@ Our specialty area is the entertainment media, web marketing and development. We
 * [**Affiliations**](#) 
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+![Jekyll-Mono Home Page](https://www.sfm-offshore.com/Themes_cm/sfm-offshore/css/images/trusted_logo.png)
 
 ## Contact me
 
