@@ -41,6 +41,8 @@ Our specialty area is the entertainment media, web marketing and development. We
 * [**Software Alliances**](#) 
    
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   
+   ![Jekyll-Mono Home Page](https://coincrunch.io/wp-content/uploads/2018/06/gdax-to-coinbase-pro.png)
 
 ***
 
