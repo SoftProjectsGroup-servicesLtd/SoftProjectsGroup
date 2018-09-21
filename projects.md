@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### Financial Services
+### [Jekyll-Mono Home Page](https://www.forexbrokerz.com/files/1514992839Gatehub%20logo.png)
 We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. 
         
 ***
@@ -20,7 +20,7 @@ Also our team provide Software Consulting, which are based on international stan
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
    
-### This Could Be Yet Another Project Name
+### Trading Bot
 
 In a team of 2, raised 8.000 € in funding from The Hub incubator at Thessaloniki(Greece), to develop a prototype crypto trading bot, aimed at portfolio optimization of our company.
 
