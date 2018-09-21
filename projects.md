@@ -4,17 +4,24 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Jekyll-Mono Home Page](https://www.forexbrokerz.com/files/1514992839Gatehub%20logo.png)
-We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. 
+## Under Construction
+
+### [Software Projects](https://github.com/SoftProjectsGroup)
+
+Soft Projects Group Ltd., is a provider of software and consulting services that optimize business development processes by enhancing the functionality of commercial systems. 
+ 
+Our Fin Tech Projects for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. 
         
 ***
 
-### Software Consulting
-Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
+### Consulting Projects
+highly vetted independent consultants to power your business
+
+SpareHire, Upwork, Freelancer
 
 ***
 
-## Other Projects
+## Success Stories
 
 ### This Could Be Another Project Name
 
@@ -25,6 +32,3 @@ Also our team provide Software Consulting, which are based on international stan
 In a team of 2, raised 8.000 € in funding from The Hub incubator at Thessaloniki(Greece), to develop a prototype crypto trading bot, aimed at portfolio optimization of our company.
 
 
-## Contact me
-
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
