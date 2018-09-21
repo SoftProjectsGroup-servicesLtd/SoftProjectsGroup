@@ -4,20 +4,23 @@ title: Projects
 permalink: /projects/
 ---
 
-## Under Construction
+## Active Projects
+
+
 
 ### [Software Projects](https://github.com/SoftProjectsGroup)
 
-Soft Projects Group Ltd., is a provider of software and consulting services that optimize business development processes by enhancing the functionality of commercial systems. 
+Soft Projects Group Ltd., is a provider of software and consulting services that optimize business development processes by enhancing the functionality of commercial systems.
+
+with highly vetted independent consultants to power your business
  
 Our Fin Tech Projects for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. 
         
 ***
 
 ### Consulting Projects
-highly vetted independent consultants to power your business
+BETA CAE Systems is a member of SpareHire, Upwork, Freelancer community run by Siemens PLM Software. JT Open is an influential community of users, software vendors, and interested parties spanning the PLM value chain who, through an open distribution of the JT technology under a level playing field business model, are able to exchange 3D data for the purposes of visualization, collaboration and data sharing.
 
-SpareHire, Upwork, Freelancer
 
 ***
 
