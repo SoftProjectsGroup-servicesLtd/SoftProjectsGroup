@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
 
 ## Business Formation 
 With our partners in Greece, Cyprus, Bulgaria, Serbia, Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
@@ -41,7 +37,7 @@ Our specialty area is the entertainment media, web marketing and development. We
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
    
    ![Jekyll-Mono Home Page](https://cdn.cryptohopper.com/images/gdax_logo.png) 
-   ![Jekyll-Mono Home Page](https://www.bvoh.com/wp-content/uploads/2016/04/github-logo.jpg) ![Jekyll-Mono Home Page](https://www.forexbrokerz.com/files/1514992839Gatehub%20logo.png)
+   ![Jekyll-Mono Home Page](https://www.bvoh.com/wp-content/uploads/2016/04/github-logo.jpg)
    
 
 ***
