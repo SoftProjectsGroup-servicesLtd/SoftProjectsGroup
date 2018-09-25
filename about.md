@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
+We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management. Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
 
 ## Business Formation 
-With our partners in Greece, Cyprus, Bulgaria, Serbia, Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
+With our partners in Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
  
 * Corporate Law Services.
 * Start-up Consulting.
@@ -17,7 +17,7 @@ With our partners in Greece, Cyprus, Bulgaria, Serbia, Dubai, Switzerland, Seych
 The group was created to manage customized portfolios for private clients and corporations around the world. We continue to provide cryptocurrencies-focused, personalized money management though our software solutions (crypto trading bots, intelligent agents, forecasting algorithms).
 
 ## Software Solutions
-Mainly specializing in the development of Artificial Intelligence solutions for the financial technology sector to save time, reduce costs, and add value. Our  flexible and integrated solutions based on open source software technology to deal with problems of small-medium sized companies, which provides immediate high level technical support.
+Mainly specializing in the development of Computational and Artificial Intelligence algorithms and software integrations for the financial technology sector to save time, reduce costs, and add value. Our  flexible and integrated software solutions based on open source technology to deal with problems of small-medium sized companies, which provides immediate high level technical support.
 
 
 * **Application Development** - `Web` / `Mobile` / `Desktop`
