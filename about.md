@@ -46,6 +46,8 @@ Our specialty area is the entertainment media, web marketing and development. We
 
     Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
+![openlogo](http://fossbytes.com/wp-content/uploads/2015/09/artificial-intelligence-ubuntu-mycroft-1.jpg)
+
 ***
 
 * [**Affiliations**](#) 
