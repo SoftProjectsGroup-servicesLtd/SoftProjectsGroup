@@ -3,7 +3,7 @@ layout: post
 title: The EU Is Taking Another Look at Regulating Crypto
 author:  Alexander Weber and Boris Groendahl
 ---
-
+![as654wqe](https://ethereumworldnews.com/wp-content/uploads/2018/03/Ripple-Litecoin-Ethereum-Bitcoin.png)
 Cryptocurrency traders and issuers of virtual currencies are in for a fresh round of scrutiny from European politicians.
 
 Finance ministers from the European Union’s 28 member states will discuss a host of challenges posed by the growing popularity of digital assets and whether rules should be tightened, according to a draft note prepared for a Sept. 7 meeting in Vienna that was seen by Bloomberg News. They include a general lack of transparency and also crypto’s potential to be misused for money laundering, tax evasion and terrorist financing.
