@@ -25,9 +25,9 @@ Because the EU Commission considers that proposals for Research and Innovation A
 As a Consultant of Public Organizations, Operational Programs, Local Authorities and Enterprises for the use of European funds. 
 
 Current Programs:
-*Horizon 2020
-*ΕΣΠΑ
-*Εξοικονόμηση κατ΄ Οίκον ΙΙ
+**Horizon 2020
+**ΕΣΠΑ
+**Εξοικονόμηση κατ΄ Οίκον ΙΙ
 
 
 ![europalogoasd](https://www.freshdetect.com/wp-content/uploads/2018/09/logo-horizon2020-640-273-300x128.png)
