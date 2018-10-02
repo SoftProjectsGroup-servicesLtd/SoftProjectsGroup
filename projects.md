@@ -34,8 +34,8 @@ As a Consultant of Public Organizations, Operational Programs, Local Authorities
 
 Odoo is a suite of open source business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc.
 
-![asd564daswqecvhguy](https://pbs.twimg.com/profile_images/970608340014419969/1bpCWJhS_400x400.jpg)
-![6a5s4da6s5d4](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/ganttd.png)
+![asd564daswqecvhguy]()
+
 
 ### Rebalancing Portfolio
 
