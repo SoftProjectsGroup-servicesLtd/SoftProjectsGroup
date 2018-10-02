@@ -29,8 +29,9 @@ As a Consultant of Public Organizations, Operational Programs, Local Authorities
 
 ## Success Stories
 
-### This Could Be Another Project Name
+### This Could Be Another Balanced Portfolio
 
+![asd654dasdwer](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/werasd.png)
       
 Our specialty area is the entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
    
