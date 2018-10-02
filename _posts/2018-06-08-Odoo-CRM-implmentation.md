@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A 3 day Odoo CRM implmentation story!
+title: A 3 day CRM implmentation story!
 author: YASEEN SHAREEF
 ---
 
