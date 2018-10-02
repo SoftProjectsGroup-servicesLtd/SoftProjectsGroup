@@ -4,11 +4,9 @@ title: Why Invest in Cryptocurrency?
 author: YASEEN SHAREEF
 ---
 
-### Overview
+![logoscrypto654](https://news.bitcoin.com/wp-content/uploads/2018/02/Cryptocurrencies-Bnr-Bitecoin-Litecoin-Dash-Monero-Zcash-IOTA-Ethereum-Ripple.png)
 
 Cryptocurrency is the elephant in the room that everyone is talking about. From experts in traditional financial markets chiming in to celebrity stunts promoting coins (see Ashton Kutcher on the Ellen Show), it is undeniable that cryptocurrency is a leading topic in the public forum. The inevitable question is whether or not to get on the bus. Here are some things to consider:
-
-![logoscrypto654](https://news.bitcoin.com/wp-content/uploads/2018/02/Cryptocurrencies-Bnr-Bitecoin-Litecoin-Dash-Monero-Zcash-IOTA-Ethereum-Ripple.png)
 
 1) It's purpose: Cryptocurrency serve many purposes and one of its fundamental purposes served is eliminating the need for the financial intermediaries involved in exchanging money and ultimately the fees that are involved when using these institutions. This benefit to individuals and businesses is huge.
 
