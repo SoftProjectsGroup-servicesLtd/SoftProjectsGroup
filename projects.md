@@ -38,4 +38,6 @@ Our specialty area is the entertainment media, web marketing and development. We
 
 In a team of 2, raised 8.000 € in funding from The Hub incubator at Thessaloniki(Greece), to develop a prototype crypto trading bot, aimed at portfolio optimization of our company.
 
+![cryptologoasdaqwe](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/cryptofolio.png)
+
 
