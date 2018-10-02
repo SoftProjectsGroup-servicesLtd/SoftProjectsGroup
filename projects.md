@@ -10,10 +10,9 @@ permalink: /projects/
 
 ### [Software Projects](https://github.com/SoftProjectsGroup)
 
-At first, advising companies through their innovative Artificial Intelligence-based projects was at the very core of the business. At first, advising companies through their innovative Artificial Intelligence-based projects was at the very core of the business. However, it then became clear that companies needed more than Analytics Management help to achieve their goal in Big Data Management, they needed software and hardware infrastructures. IT solutions provided by Soft Projects Group Ltd. are not only versatile but can be customized as per the requirement of the plan. Also are integratable with various control version platforms are our expertise, that makes us stand out in the crowd. 
+Our solutions in the area of entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile. At first, advising companies through their innovative Artificial Intelligence-based projects was at the very core of the business. However, it then became clear that companies needed more than Analytics Management help to achieve their goal in Big Data Management, they needed software and hardware infrastructures. IT solutions provided by Soft Projects Group Ltd. are not only versatile but can be customized as per the requirement of the plan. Also are integratable with various control version platforms are our expertise, that makes us stand out in the crowd. 
 
-Our solutions in the area of entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
-
+![qwefhyut654](https://www.saagie.com/user/themes/saagie-website/dist/assets/img/product/overview/technologies.png)
 
         
 ***
