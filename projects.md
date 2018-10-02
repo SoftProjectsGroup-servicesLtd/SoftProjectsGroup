@@ -10,14 +10,11 @@ permalink: /projects/
 
 ### [Software Projects](https://github.com/SoftProjectsGroup)
 
-Soft Projects Group Ltd., is a provider of software and consulting services that optimize business development processes by enhancing the functionality of commercial systems.
-Soft Projects Group is a member of SpareHire, Upwork, Freelancer community run by Siemens PLM Software. JT Open is an influential community of users, software vendors, and interested parties spanning the PLM value chain who, through an open distribution of the JT technology under a level playing field business model, are able to exchange 3D data for the purposes of visualization, collaboration and data sharing.
+At first, advising companies through their innovative Artificial Intelligence-based projects was at the very core of the business. At first, advising companies through their innovative Artificial Intelligence-based projects was at the very core of the business. However, it then became clear that companies needed more than Analytics Management help to achieve their goal in Big Data Management, they needed software and hardware infrastructures. IT solutions provided by Soft Projects Group Ltd. are not only versatile but can be customized as per the requirement of the plan. Also are integratable with various control version platforms are our expertise, that makes us stand out in the crowd. 
 
-Our specialty area is the entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
+Our solutions in the area of entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
 
-with highly vetted independent consultants to power your business
- 
-Our Fin Tech Projects for industry with a special focus on Market Data, Blockchain and Investment Management Solutions. 
+
         
 ***
 
