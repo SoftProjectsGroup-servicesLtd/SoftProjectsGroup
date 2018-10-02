@@ -34,7 +34,7 @@ As a Consultant of Public Organizations, Operational Programs, Local Authorities
       
 Our specialty area is the entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
    
-### Trading Bot
+### Crypto Trading Bot
 
 In a team of 2, raised 8.000 € in funding from The Hub incubator at Thessaloniki(Greece), to develop a prototype crypto trading bot, aimed at portfolio optimization of our company.
 
