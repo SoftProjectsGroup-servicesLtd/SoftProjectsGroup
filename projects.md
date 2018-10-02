@@ -13,6 +13,7 @@ permalink: /projects/
 Soft Projects Group Ltd., is a provider of software and consulting services that optimize business development processes by enhancing the functionality of commercial systems.
 Soft Projects Group is a member of SpareHire, Upwork, Freelancer community run by Siemens PLM Software. JT Open is an influential community of users, software vendors, and interested parties spanning the PLM value chain who, through an open distribution of the JT technology under a level playing field business model, are able to exchange 3D data for the purposes of visualization, collaboration and data sharing.
 
+Our specialty area is the entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
 
 with highly vetted independent consultants to power your business
  
@@ -29,11 +30,12 @@ As a Consultant of Public Organizations, Operational Programs, Local Authorities
 
 ## Success Stories
 
-### This Could Be Another Balanced Portfolio
+### Rebalancing Portfolio
+
+Rebalancing is the process of realigning the weightings of a portfolio of assets. Rebalancing involves periodically buying or selling assets in a portfolio to maintain an original desired level of asset allocation.
 
 ![asd654dasdwer](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/werasd.png)
-      
-Our specialty area is the entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
+
    
 ### Crypto Trading Bot
 
