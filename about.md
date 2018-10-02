@@ -54,6 +54,4 @@ Mainly specializing in the development of Computational and Artificial Intellige
 ![Jekyll-Mono Home Page](https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/h2m8pknt3n20uvdoxfjw)
 ![devio](https://media.licdn.com/dms/image/C560BAQFo7p5mrrjZnA/company-logo_200_200/0?e=2159024400&v=beta&t=L5yfcHZSyYDdl6Fa6fwbNarAN1v5sWQLpYZGfznLGKw)
 
-## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
