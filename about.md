@@ -21,13 +21,11 @@ Mainly specializing in the development of Computational and Artificial Intellige
 
 
 * **Application Development** - `Web` / `Mobile` / `Desktop`
-* **Digital Marketing** - `Search Engine Optimization` / `Analytics` / `Website Optimization` / `E-commerce`
 * **ERP/CRM** - `Customizations` / `Integrations` / `Expansions`
-* **Machine Learning** - `Skill` / `Skill` / `Skill` 
-* **Crytpo** - `Skill`
-* **IoT** - `Skill` / `Skill` 
-    
- 
+* **Crytpo** - `Trading` / `Mining` 
+* **IoT** -  `Sensors` / `Actuators`
+* **Digital Marketing** - `Search Engine Optimization` / `Analytics` / `Website Optimization` / `E-commerce`
+
 # Alliances
 
 * [**Software Partners**](#) 
