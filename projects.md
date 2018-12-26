@@ -12,7 +12,7 @@ permalink: /projects/
 
 Our solutions in the area of entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile. At first, advising companies through their innovative Artificial Intelligence-based projects was at the very core of the business. However, it then became clear that companies needed more than Analytics Management help to achieve their goals in Big Data Management, they needed software and hardware infrastructures. IT solutions provided by Soft Projects Group Ltd. are not only versatile but can be customized as per the requirement of the plan. Also are very integratable with various control version platforms are our expertise, that makes us stand out in the crowd. 
 
-![qwefhyut654](https://www.saagie.com/user/themes/saagie-website/dist/assets/img/product/overview/technologies.png)
+
 
         
 ***
@@ -39,11 +39,6 @@ Rebalancing is the process of realigning the weightings of a portfolio of assets
 
 ![asd654dasdwer](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/werasd.png)
 
-   
-### Crypto Trading Bot
 
-In a team of 2, raised 8.000 € in funding from The Hub incubator at Thessaloniki(Greece), to develop a prototype crypto trading bot, aimed at portfolio optimization of our company.
-
-![cryptologoasdaqwe](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/cryptofolio.png)
 
 
