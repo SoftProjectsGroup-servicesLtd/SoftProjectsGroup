@@ -4,7 +4,7 @@ title: Why Invest in Cryptocurrency?
 author: YASEEN SHAREEF
 ---
 
-![logoscrypto654](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/bitphoto.png)
+![log987oscrypto](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/bitphoto.png)
 
 Cryptocurrency is the elephant in the room that everyone is talking about. From experts in traditional financial markets chiming in to celebrity stunts promoting coins (see Ashton Kutcher on the Ellen Show), it is undeniable that cryptocurrency is a leading topic in the public forum. The inevitable question is whether or not to get on the bus. Here are some things to consider:
 
