@@ -20,7 +20,7 @@ Our solutions in the area of entertainment media, web marketing and development.
 ### Consulting Projects
 As a Consultant of Public Organizations, Operational Programs, Local Authorities and Enterprises for the use of European funds, provide services that optimize business development processes by actions requesting a contribution from the EU of between 5 and 10 million € and a duration of 3 years would allow the area of digital agenda for Europe's future and emerging technologies. Nonetheless, this does not preclude submission and selection of proposals requesting other amounts and duration.
 
-![europalogoasd](https://www.freshdetect.com/wp-content/uploads/2018/09/logo-horizon2020-640-273-300x128.png)
+![europalogoasd](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/EUCom.jpg)
 
 ***
 
