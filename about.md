@@ -7,7 +7,7 @@ permalink: /about/
 We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management. Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
 
 ## Business Formation 
-With our partners in Dubai, Switzerland, Seychelles and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
+With our partners in Greece, Cyprus, Switzerland and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
  
 * Corporate Law Services.
 * Start-up Consulting.
