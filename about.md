@@ -19,14 +19,10 @@ The group was created to manage customized portfolios for private clients and co
 ## Software Solutions
 Mainly specializing in the development of Computational and Artificial Intelligence algorithms and software integrations for the financial technology sector to save time, reduce costs, and add value. Our  flexible and integrated software solutions based on open source technology to deal with problems of small-medium sized companies, which provides immediate high level technical support.
 
-
-* **Application Development**
-
-* **ERP/CRM** 
-
-* **Crytpo** 
- 
-* **Digital Marketing** 
+* Application Development
+* ERP/CRM
+* Crytpo 
+* Digital Marketing 
 
 
 # Alliances
