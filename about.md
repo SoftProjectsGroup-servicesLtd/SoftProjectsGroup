@@ -7,7 +7,7 @@ permalink: /about/
 We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management. Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
 
 ## Business Formation 
-With our partners in Greece, Cyprus, Switzerland and Hong Kong, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
+With our partners in Greece and Cyprus, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
  
 * Corporate Law Services.
 * Start-up Consulting.
@@ -20,10 +20,12 @@ The group was created to manage customized portfolios for private clients and co
 Mainly specializing in the development of Computational and Artificial Intelligence algorithms and software integrations for the financial technology sector to save time, reduce costs, and add value. Our  flexible and integrated software solutions based on open source technology to deal with problems of small-medium sized companies, which provides immediate high level technical support.
 
 
-* **Application Development** - `Web` / `Mobile` / `Desktop`
+* **Application Development**
+* `Web` 
+* `Mobile`  
+* `Desktop`
 * **ERP/CRM** - `Customizations` / `Integrations` / `Expansions`
 * **Crytpo** - `Trading` / `Mining` 
-* **IoT** -  `Sensors` / `Actuators`
 * **Digital Marketing** - `Search Engine Optimization` / `Analytics` / `Website Optimization` / `E-commerce`
 
 # Alliances
