@@ -46,7 +46,7 @@ Mainly specializing in the development of Computational and Artificial Intellige
 
 * [**Technology Partners**](#)  
 
-![dataphoto](https://calcium.blob.core.windows.net/tpp/49a88ab91f5a03668494f895380545fa) ![quatnphoto](https://i.forbesimg.com/media/lists/companies/quantopian_416x416.jpg)
+![quatnphoto](https://i.forbesimg.com/media/lists/companies/quantopian_416x416.jpg)
 
 ***
 
