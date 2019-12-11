@@ -41,15 +41,17 @@ Mainly specializing in the development of Computational and Artificial Intellige
 
 * [**Software Partners**](#) 
    
+![quatnphoto](https://i.forbesimg.com/media/lists/companies/quantopian_416x416.jpg)
 
 ***
 
 * [**Technology Partners**](#)  
 
-![quatnphoto](https://i.forbesimg.com/media/lists/companies/quantopian_416x416.jpg)
+![ardanasdklj](http://1.bp.blogspot.com/-SWD-rWWMQZk/U9IJauXwK6I/AAAAAAAAEJA/A0voAFMQ5R8/s1600/Arduino_logo_pantone.png)
+![raspsdjfg](https://forbot.pl/blog/wp-content/uploads/2017/10/RPi_LOGO.png)
 
 ***
 
 * [**Affiliations**](#) 
 
-
+![devioasd](https://www.devio.gr/sites/default/files/DEVIO.png)
