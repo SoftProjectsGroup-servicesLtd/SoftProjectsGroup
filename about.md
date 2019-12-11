@@ -21,21 +21,13 @@ Mainly specializing in the development of Computational and Artificial Intellige
 
 
 * **Application Development**
-* `Web` 
-* `Mobile`  
-* `Desktop`
+
 * **ERP/CRM** 
-*` Customizations` 
-*` Integrations` 
-*` Expansions`
+
 * **Crytpo** 
-* `Trading` 
-* `Mining` 
+ 
 * **Digital Marketing** 
-* `Search Engine Optimization` 
-* `Analytics` 
-* `Website Optimization` 
-* `E-commerce`
+
 
 # Alliances
 
