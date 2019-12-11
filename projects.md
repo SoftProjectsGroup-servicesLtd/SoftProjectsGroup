@@ -10,7 +10,7 @@ permalink: /projects/
 
 ### [Software Projects](https://github.com/SoftProjectsGroup)
 
-Our solutions in the area of entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile. At first, advising companies through their innovative Artificial Intelligence-based projects was at the very core of the business. However, it then became clear that companies needed more than Analytics Management help to achieve their goals in Big Data Management, they needed software and hardware infrastructures. IT solutions provided by Soft Projects Group Ltd. are not only versatile but can be customized as per the requirement of the plan. Also are very integratable with various control version platforms are our expertise, that makes us stand out in the crowd. 
+We have solutions in the area of entertainment media, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile. At first, advising companies through their innovative Artificial Intelligence-based projects was at the very core of the business. However, it then became clear that companies needed more than Analytics Management help to achieve their goals in Big Data Management, they needed software and hardware infrastructures. IT solutions provided by Soft Projects Group Ltd. are not only versatile but can be customized as per the requirement of the plan. Also are very integratable with various control version platforms are our expertise, that makes us stand out in the crowd. 
 
 
 
