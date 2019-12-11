@@ -25,9 +25,9 @@ Mainly specializing in the development of Computational and Artificial Intellige
 * `Mobile`  
 * `Desktop`
 * **ERP/CRM** 
-*`Customizations` 
-*`Integrations` 
-*`Expansions`
+*` Customizations` 
+*` Integrations` 
+*` Expansions`
 * **Crytpo** 
 * `Trading` 
 * `Mining` 
