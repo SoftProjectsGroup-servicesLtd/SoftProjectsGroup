@@ -51,7 +51,4 @@ Mainly specializing in the development of Computational and Artificial Intellige
 ***
 
 * [**Affiliations**](#) 
-
 ![quatnphoto](https://i.forbesimg.com/media/lists/companies/quantopian_416x416.jpg)
-![quantlsdjf](https://yt3.ggpht.com/a-/AAuE7mDw6XKj_kvYiSq4WkVF99ePF3y5ATh8uM9nhg=s900-mo-c-c0xffffffff-rj-k-no)
-
