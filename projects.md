@@ -42,6 +42,6 @@ Rebalancing is the process of realigning the weightings of a portfolio of assets
 
 ### Startup Fundraising
 
-Oh Shit, we need Cash! Fundraising is an extraordinary process in the life of a startup company.
+Oh Shit, we need Cash! Fundraising is an extraordinary process in the life of a startup company. The evaluation of your venture should be discussed within your founding team and among your first friendly investor contacts.
 
 ![eufund](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffiles.startupranking.com%2Fstartup%2Fthumb%2F49026_12a594a2200ef246490476a4578988762e481a0b_european-investment-fund_l.jpg&f=1&nofb=1)
