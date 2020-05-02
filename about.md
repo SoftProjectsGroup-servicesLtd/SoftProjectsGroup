@@ -35,7 +35,6 @@ Mainly specializing in the development of Computational and Artificial Intellige
 
 * [**Technology Partners**](#)  
 
-![ardanasdklj](http://1.bp.blogspot.com/-SWD-rWWMQZk/U9IJauXwK6I/AAAAAAAAEJA/A0voAFMQ5R8/s1600/Arduino_logo_pantone.png)
 ![raspsdjfg](https://forbot.pl/blog/wp-content/uploads/2017/10/RPi_LOGO.png)
 
 ***
