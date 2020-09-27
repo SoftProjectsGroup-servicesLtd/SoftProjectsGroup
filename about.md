@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We provide Financial Services for industry with a special focus on Market Data, Blockchain and Investment Management. Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
+We provide Financial Services for industry with a special focus on Market Data, Business Development and Investment Management. Also our team provide Software Consulting, which are based on international standard measurement techniques, estimates, manages, and benchmarks software development processes and products.
 
 ## Business Formation 
 With our partners in Greece and Cyprus, we are in a unique elevated position to guide our clients in all aspects of new company formation in Southeastern Europe and help them to establish effective corporate structures that will benefit their business long term. 
