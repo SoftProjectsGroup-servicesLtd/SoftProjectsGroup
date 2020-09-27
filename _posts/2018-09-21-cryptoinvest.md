@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Invest in Cryptocurrency?
-author: YASEEN SHAREEF
+author: Maria Goltenberg
 ---
 
 ![log987oscrypto](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/bitphoto.png)
