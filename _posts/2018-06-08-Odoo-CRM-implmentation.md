@@ -9,8 +9,6 @@ What follows is an exemplary story of an Odoo implementation in just 3 days! Har
 
 ![odoologooasdasdqewq](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/odoo_erp.png)
 
-<div style="width:50%">![Chilling](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/odoo_erp.png)</div>
-
 -----
 
 ### Why we needed a CRM?
