@@ -7,7 +7,7 @@ author: Yaseen Sharef
 ### Overview
 What follows is an exemplary story of an Odoo implementation in just 3 days! Hard to believe right? We just did that for our internal sales team last month!  Odoo is well known in the ERP world for its really short implementation durations and flexibility to accommodate changes on the go. We wanted to share the experience of how we went about selecting Odoo from the gamut of ERP/CRM platforms available in the market today and managed to implement it within 3 business days.
 
-![odoologooasdasdqewq](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/odoo_erp.png)
+![odoologooasdasdqewq](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/odoo.png)
 
 -----
 
