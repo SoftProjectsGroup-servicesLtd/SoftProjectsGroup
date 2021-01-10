@@ -10,7 +10,7 @@ permalink: /projects/
 
 ### [Software Projects](https://github.com/SoftProjectsGroup)
 
-We have amazing and innovate solutions in the area of FinTech, web marketing and development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
+We have amazing and innovate solutions in the area of FinTech, web marketing and software development. We are constantly pushing the boundaries of cutting edge web technology to deliver the best content and most consumer-centric experience to our users via PC and mobile.
 
 
 
@@ -44,4 +44,4 @@ Rebalancing is the process of realigning the weightings of a portfolio of assets
 
 Oh Shit, we need Cash! Fundraising is an extraordinary process in the life of a startup company. You need evaluation of your venture should be discussed within your founding team and among your first friendly investor contacts.
 
-![eufund](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffiles.startupranking.com%2Fstartup%2Fthumb%2F49026_12a594a2200ef246490476a4578988762e481a0b_european-investment-fund_l.jpg&f=1&nofb=1)
+![eufund](https://raw.githubusercontent.com/SoftProjectsGroup/SoftProjectsGroup.github.io/master/images/601f7d7bf33444afb6edd5b799be9b2b.jpg)
